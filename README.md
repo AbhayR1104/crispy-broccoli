@@ -2,7 +2,7 @@
 
 This project uses machine learning to predict the **success or failure of startup companies** based on early-stage indicators like funding history, location, industry, and product stage.
 
-It was developed as part of the **CSE 523/524 Advanced Project** coursework by Abhay Ravi Kumar.
+It was developed as part of the **Advanced Project** .
 
 ---
 
@@ -50,8 +50,8 @@ The final pipeline integrates feature selection, data balancing, standardization
 
 **Abhay Ravi Kumar**  
 Stony Brook University  
-Email: *[Your Email Here]*  
-LinkedIn: *[Your LinkedIn]*
+Email: *abhayrusa@gmail.com*  
+LinkedIn: *https://www.linkedin.com/in/abhay-ravi-kumar-0b6447191/*
 
 ---
 
